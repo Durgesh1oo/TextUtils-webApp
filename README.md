@@ -1,3 +1,6 @@
+# TextUtils
+Click on the link to preview the project : [https://gleaming-naiad-1e0e46.netlify.app/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
